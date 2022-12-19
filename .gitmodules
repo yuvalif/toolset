@@ -1,0 +1,6 @@
+[submodule "cgdb"]
+	path = cgdb
+	url = https://github.com/cgdb/cgdb.git
+[submodule "git-tui"]
+	path = git-tui
+	url = https://github.com/ArthurSonzogni/git-tui.git
